@@ -1,1 +1,0 @@
-# abhinavkorpal.github.io
