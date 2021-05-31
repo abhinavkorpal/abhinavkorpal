@@ -7,6 +7,7 @@
 - 💬 Ask me about Opensource Tool or any tech related stuff.
 - 📫 How to reach me: [Twitter - @abhinavkorpal](https://twitter.com/abhinavkorpal)
 - 😄 Pronouns: He/His
+- 💬 Passionate for learning & exploring new Tech.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/abhinavkorpal?style=social)](https://twitter.com/abhinavkorpal)
