@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently working on DevOps Automation.
+- 🔭 I'm Currently workigng on Low Level Design / High Level Design
 - 🌱 I’m currently learning more about BlockChain,AI/ML.
 - 🤔 I’m looking for help with to understand AI/ML.
 - 💬 Ask me about Opensource Tool or any tech related stuff.
