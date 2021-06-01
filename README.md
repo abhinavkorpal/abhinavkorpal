@@ -11,6 +11,10 @@
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+Digital native, programmer and back-end developer and Web Programmer. Working on AI & NLP, DevOps practice and building spaCy . 
+
+⚡ Requests: HTTP for Humans.
+
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/abhinavkorpal?style=social)](https://twitter.com/abhinavkorpal)
 [![Linkedin: imthepk](https://img.shields.io/badge/-abhinavkorpal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/abhinavkorpal/)
 [![GitHub iampawan](https://img.shields.io/github/followers/abhinavkorpal?label=follow&style=social)](https://github.com/abhinavkorpal)
