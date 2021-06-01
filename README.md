@@ -8,8 +8,6 @@
 - 📫 How to reach me: [Twitter - @abhinavkorpal](https://twitter.com/abhinavkorpal)
 - 😄 Pronouns: He/His
 - 💬 Passionate for learning & exploring new Tech.
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
-
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
