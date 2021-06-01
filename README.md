@@ -11,7 +11,7 @@
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-Digital native, programmer and back-end developer and Web Programmer. Working on AI & NLP, DevOps practice and building spaCy . 
+Digital native, programmer and back-end developer and Web Programmer. Working on AI/ML & NLP, DevOps practice and building spaCy. 
 
 ⚡ Requests: HTTP for Humans.
 
