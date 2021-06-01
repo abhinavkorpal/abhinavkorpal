@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently working on DevOps Automation and Low Level Design / High Level Design.
+- 💬 I wrote Scripts in Shell, Python, Go, JavaScript.
 - 🌱 Learning more about BlockChain,AI/ML.
 - 🤔 I’m looking for help with to understand AI/ML.
 - 💬 Ask me about Opensource Tool or any tech related stuff.
